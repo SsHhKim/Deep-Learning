@@ -6,6 +6,7 @@ workspace.xml
 dogs-vs-cats/
 model/
 preview/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
